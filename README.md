@@ -15,6 +15,8 @@ Hands-on full-stack software architect specialising in developer-first cloud pla
 | [DEEPCRAFT Voice Assistant: Production AWS Architecture](projects/deepcraft-voice-assistant.html) | Multi-AZ AWS stack deployed as code with the AWS CDK (TypeScript). Live product: [deepcraft-voice-assistant.infineon.com](https://deepcraft-voice-assistant.infineon.com/welcome). |
 | [Rational AI: Agents for the Software Lifecycle](projects/rational-ai.html) | Generative-AI platform where specialised agents own each lifecycle phase. |
 | [Digital-Controller Configuration GUI Refactor](projects/controller-configuration-gui.html) | Angular monolith refactored into reusable libraries with a better UX. |
+| [CAPSENSE Studio: Qt Edition](projects/capsense-studio-qt.html) | Capacitive-sensing tuning tool: Qt 6 QML over a C++ core, live tuning on real hardware over UART and EzI2C. |
+| [CAPSENSE Studio: WPF Edition](projects/capsense-studio-wpf.html) | Zero-dependency .NET 10 WPF/MVVM tuning GUI with a built-in telemetry simulator. |
 
 Project descriptions are generalised and the diagrams are simplified and illustrative. No internal screenshots, hostnames or identifiers are shown.
 
