@@ -10,7 +10,7 @@ Hands-on full-stack software architect specialising in developer-first cloud pla
 
 | Project | Summary |
 | --- | --- |
-| [Adaptive ML Kube: Universal Deployment Platform](projects/adaptive-ml-kube.html) | Cloud-agnostic Kubernetes platform for ML workloads, delivered to AWS EKS and to air-gapped customer clusters with a Go installer. |
+| [Adaptive ML Kube: Universal Deployment Platform](projects/adaptive-ml-kube.html) | Cloud-agnostic Kubernetes platform for ML workloads, delivered to AWS EKS and to air-gapped customer clusters with a Go installer. Live product: [Infineon/amk, latest release 0.1.2](https://github.com/Infineon/amk/tree/main/0.1.2). |
 | [Adaptive ML Cloud Platform](projects/adaptive-ml-cloud.html) | Elastic, API-first ML platform on AWS: 1 to 20 workers, 45 ms audio processing, sub-100 ms APIs, 60–85% lower cost. |
 | [DEEPCRAFT Voice Assistant: Production AWS Architecture](projects/deepcraft-voice-assistant.html) | Multi-AZ AWS stack deployed as code with the AWS CDK (TypeScript). Live product: [deepcraft-voice-assistant.infineon.com](https://deepcraft-voice-assistant.infineon.com/welcome). |
 | [Rational AI: Agents for the Software Lifecycle](projects/rational-ai.html) | Generative-AI platform where specialised agents own each lifecycle phase. |
