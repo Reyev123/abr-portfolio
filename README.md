@@ -17,6 +17,7 @@ Hands-on full-stack software architect specialising in developer-first cloud pla
 | [Digital-Controller Configuration GUI Refactor](projects/controller-configuration-gui.html) | Angular monolith refactored into reusable libraries with a better UX. |
 | [CAPSENSE Studio: Qt Edition](projects/capsense-studio-qt.html) | Capacitive-sensing tuning tool: Qt 6 QML over a C++ core, live tuning on real hardware over UART and EzI2C. |
 | [CAPSENSE Studio: WPF Edition](projects/capsense-studio-wpf.html) | Zero-dependency .NET 10 WPF/MVVM tuning GUI with a built-in telemetry simulator. |
+| [Low-Power Wake-Word ML Pipeline: Optimization](projects/wake-word-ml-pipeline.html) | Fixed an inherited wake-word training pipeline: 130 to 34 GB peak data-prep memory, 50% faster GPU model training, same model quality. |
 
 Project descriptions are generalised and the diagrams are simplified and illustrative. No internal screenshots, hostnames or identifiers are shown.
 
