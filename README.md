@@ -4,7 +4,7 @@ Principal Software Engineer · Cloud, Kubernetes and AI platform architect
 
 Hands-on full-stack software architect specialising in developer-first cloud platforms and large-scale distributed systems: the APIs, CI/CD pipelines, observability and infrastructure that let engineering teams ship and scale. Details are generalised; diagrams are simplified and illustrative. All information provided here is public.
 
-**Site:** https://reyev123.github.io/abr-portfolio/ · **Resume:** [PDF](docs/Alexander-Rayev-Resume.pdf) · **Email:** arayev@yahoo.com
+**Site:** https://alexrayev.github.io/ · **Resume:** [PDF](docs/Alexander-Rayev-Resume.pdf) · **Email:** arayev@yahoo.com
 
 ## Selected projects
 
